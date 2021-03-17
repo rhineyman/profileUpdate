@@ -5,12 +5,20 @@
     margin: 0;
 }
 /*header*/
+a:link {
+    text-decoration: none;
+}
 #top-hypers{
     display: inline;    
     
 }
 li a{
     color: white;
+}
+
+#container a h3{
+    color: white;
+    font-size: 2rem;
 }
 
 header {
