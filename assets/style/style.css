@@ -43,7 +43,7 @@ header h1 {
     height: 600px;
     width: 100%;
     margin-bottom: 0px;
-    background-image: url("../images/Meeting.jpg");
+    background-image: url("../images/topcontainer.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -51,7 +51,7 @@ header h1 {
 /*Main-aboutme*/
 
 main{
-    background-color: #2a607c;
+    background-color: #59a5ca;
     padding-top: 0;
     margin: 0;
 }
@@ -79,6 +79,7 @@ p {
 .about-me h2{
     float:inline-start; 
     background-image: url(../images/img_mouseover3.jpg);
+    border-radius: 25px;
     border: 1px solid yellow;
     height: inherit;
     width: 100%;
@@ -100,7 +101,8 @@ aside{
 .work{
     float: inline-start;
     color: white;
-    background-image: url(../images/img_mouseover3.jpg);    
+    background-image: url(../images/img_mouseover3.jpg);
+    border-radius: 25px;    
     border: 1px solid yellow;
     height: 100px;
     width: 100%;
@@ -120,6 +122,7 @@ aside{
     width: 100%;
     height: 300px;
     border: 1px solid rgb(72, 255, 0);
+    border-radius: 25px;
     box-sizing: border-box;
     text-align: center;
 }
@@ -129,6 +132,7 @@ aside{
     width: 49.7%;
     height: inherit;
     border: 1px solid rgb(72, 255, 0);
+    border-radius: 25px;
     box-sizing: border-box;
     text-align: center;
 }
