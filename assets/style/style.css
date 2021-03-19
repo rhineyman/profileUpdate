@@ -21,6 +21,10 @@ div a h3{
     font-size: 2rem;
 }
 
+#profile {
+    height: 200px;
+}
+
 header {
     display: flex; 
     justify-content: space-between;
